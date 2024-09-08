@@ -36,6 +36,7 @@ const Projects = () => {
             name = "Portfolio"
             description = "Portfolio personal desarrollado con React, JavaScript y TailwindCSS."
             tech = {[react, javascript, tailwind, css]}
+            link="https://github.com/LuisJhonatan/portfolio"
             />
         </div>
     </section>
