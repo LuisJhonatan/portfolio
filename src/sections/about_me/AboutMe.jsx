@@ -23,7 +23,7 @@ const AboutMe = () => {
           a los cambios. 
         </div>
         <div id="text3" className="md:text-2xl w-3/4 h-auto text-base mx-auto my-2 md:my-4 relative -left-full duration-1000">
-          Mi objetivo es seguir aprendiendo y aplicar mis conocimientos en un   entorno profesional donde pueda contribuir y crecer como desarrollador. Estoy entusiasmado por las oportunidades que el futuro me depara yansioso por empezar a crear soluciones innovadoras que hagan la  diferencia.
+          Mi objetivo es seguir aprendiendo y aplicar mis conocimientos en un   entorno profesional donde pueda contribuir y crecer como desarrollador. Estoy entusiasmado por las oportunidades que el futuro me depara y ansioso por empezar a crear soluciones innovadoras que hagan la  diferencia.
         </div>
         <Button message= "DESCARGAR CV"  padding = {false} />
       </div>

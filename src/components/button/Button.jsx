@@ -2,7 +2,7 @@ const Button = ({message, padding}) => {
 
   const handleClick = () => {
     if(message === "DESCARGAR CV"){
-      window.open("https://drive.google.com/file/d/1kdPs_eXmeyIXDa9FRn9c6TUSJUvNyFeL/view", "_blank");
+      window.open("https://drive.google.com/file/d/1uNPh1WiBFEgCtoPempsR5FZ2e3lYVq0J/view?usp=sharing", "_blank");
     }else if(message === "CONTÁCTAME"){
       document.getElementById('contacto').scrollIntoView({behavior: 'smooth'});
     }
